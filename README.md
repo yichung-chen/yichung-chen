@@ -62,17 +62,13 @@
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Jeffrey Chen" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yichung-chen" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
 <a href="mailto:ontniceabc@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 </p>
-
-
-
-
 
    <!--machine-learning-->
 ```mermaid
