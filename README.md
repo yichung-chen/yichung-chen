@@ -62,7 +62,7 @@
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Jeffrey Chen" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
