@@ -57,12 +57,6 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-**📫 How to Reach me:**
-<p align="left">
-<a href="mailto:ontniceabc@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-
-</p>
-
    <!--machine-learning-->
 ```mermaid
 graph TD;
@@ -74,20 +68,6 @@ graph TD;
     machine-learning-->Deployment;
    ```
    
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
