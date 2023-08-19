@@ -7,7 +7,7 @@
     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/yichung-chen/yichung-chen?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/yichung-chen/yichung-chen?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/yichung-chen/yichung-chen?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=yichung-chen" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=yichung-chen.yichung-chen" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
